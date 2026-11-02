@@ -1,0 +1,11 @@
+{
+  "org": "sean2077",
+  "repo": "jsonpath-python",
+  "versions": [
+    {
+      "commit": "03c547cccb3b0b44c3fccdcc25a193fca8550816",
+      "tag": "1.1.6",
+      "parsed_at": "2026-11-02T18:51:22.602382+00:00"
+    }
+  ]
+}
