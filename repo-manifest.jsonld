@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/sean2077/jsonpath-python/commit/03c547cccb3b0b44c3fccdcc25a193fca8550816",
       "git:hexsha": "03c547cccb3b0b44c3fccdcc25a193fca8550816",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "1.1.6"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "1.1.6",
+      "repolex:parsedAt": "2026-11-02T18:51:22.562252+00:00"
     },
     {
       "@id": "https://repolex.ai/r/sean2077/jsonpath-python/commit/b3d8296dffc59c2ed3d89890f7f7b87aec6888f9",
