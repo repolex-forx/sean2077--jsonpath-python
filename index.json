@@ -3,6 +3,11 @@
   "repo": "jsonpath-python",
   "versions": [
     {
+      "commit": "44f67779178a069f8851ae42ff4ac70cc446064c",
+      "tag": "v1.0.5",
+      "parsed_at": "2026-11-21T23:37:57.038882+00:00"
+    },
+    {
       "commit": "03c547cccb3b0b44c3fccdcc25a193fca8550816",
       "tag": "1.1.6",
       "parsed_at": "2026-11-02T18:51:22.602382+00:00"
